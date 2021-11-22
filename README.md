@@ -1,2 +1,1 @@
-# gnd-apt-admin-web
-
+# Start React Study!
